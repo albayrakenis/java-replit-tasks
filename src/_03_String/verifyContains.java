@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _01_verifyContains {
+public class verifyContains {
 
 	/**
 	 * @param args
