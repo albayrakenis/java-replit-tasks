@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _07_middleOne {
+public class middleOne {
 
 	/**
 	 * @param args
