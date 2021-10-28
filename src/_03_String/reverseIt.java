@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _10_reverseIt {
+public class reverseIt {
 
 	/**
 	 * @param args
