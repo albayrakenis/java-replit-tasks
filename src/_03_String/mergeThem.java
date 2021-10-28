@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _09_mergeThem {
+public class mergeThem {
 
 	/**
 	 * @param args
