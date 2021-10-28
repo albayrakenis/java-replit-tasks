@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _02_findAUser {
+public class findAUser {
 
 	/**
 	 * @param args
