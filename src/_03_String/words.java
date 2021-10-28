@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _11_words {
+public class words {
 
 	/**
 	 * @param args
