@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _03_findTheLength {
+public class findTheLength {
 
 	/**
 	 * @param args
