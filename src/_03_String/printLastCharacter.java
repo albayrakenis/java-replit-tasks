@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _05_printLastCharacter {
+public class printLastCharacter {
 
 	/**
 	 * @param args
