@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class _08_duplicateIt {
+public class duplicateIt {
 
 	/**
 	 * @param args
