@@ -1,6 +1,3 @@
-/**
- * 
- */
 package _03_String;
 
 import java.util.Scanner;
@@ -9,13 +6,13 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class printHalfTwice {
+public class PrintHalfTwice {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Solved and Test Cases Passed
 		Scanner scan = new Scanner(System.in);
 		String word = scan.next();
 

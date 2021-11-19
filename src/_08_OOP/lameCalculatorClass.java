@@ -1,6 +1,6 @@
 package _08_OOP;
 
-public class lameCalculatorClass {
+public class LameCalculatorClass {
 
 	public static int plus(int a, int b) {
 		return a + b;

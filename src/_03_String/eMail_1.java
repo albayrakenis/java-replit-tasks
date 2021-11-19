@@ -1,6 +1,3 @@
-/**
- * 
- */
 package _03_String;
 
 import java.util.Scanner;
@@ -9,12 +6,13 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class eMail_1 {
+public class EMail_1 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		Scanner scan = new Scanner(System.in);
 		String email = scan.next();
 

@@ -3,14 +3,14 @@ package _04_Loops;
 /**
  * @author esalkan
  */
-public class printEvenFrom80T020 {
+public class PrintEvenFrom80T020 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		
-		// NOT SOLVED
+		// Solved and Test Cases Passed
 		
 		// Write a for loop that prints all even integers from 80 through and including
 		// 20. Seperate each number with a space

@@ -5,12 +5,12 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class findCube {
+public class FindCube {
 
 	/**
 	 * @param args
 	 */
-	// your code here
+	
 	public static void cube() {
 		Scanner s = new Scanner(System.in);
 		int n = s.nextInt();

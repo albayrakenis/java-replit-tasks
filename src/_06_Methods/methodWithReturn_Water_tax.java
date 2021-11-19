@@ -5,13 +5,14 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class methodWithReturn_Water_tax {
+public class MethodWithReturn_Water_tax {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		/*
+		// Solved and Test Cases Passed
+		/**
 		 * The waterTax method calculates a water bill. The method takes a double and
 		 * returns a double.
 		 * 

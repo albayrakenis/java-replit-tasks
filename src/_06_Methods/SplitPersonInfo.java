@@ -12,6 +12,7 @@ public class SplitPersonInfo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * The method person has a string arguement with this format: "name,last
 		 * name,age". Print out the person's information

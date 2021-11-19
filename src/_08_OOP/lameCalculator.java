@@ -5,14 +5,16 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class lameCalculator {
+public class LameCalculator {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
+		
 		Scanner in = new Scanner(System.in);
-		lameCalculatorClass lc = new lameCalculatorClass();
+		LameCalculatorClass lc = new LameCalculatorClass();
 		System.out.println("Enter First Number"); //Extra Added
 		int a = in.nextInt();
 		System.out.println("Enter Second Number");//Extra Added

@@ -12,6 +12,7 @@ public class TimeConversion {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * Given a time in 12 hour AM/PM format, convert it to military (24-hour) time.
 		 * 
@@ -36,9 +37,6 @@ public class TimeConversion {
 	}
 
 	public static void timeConversion(String s) {
-		/*
-		 * Write your code here.
-		 */
 
 		int h1 = (int) s.charAt(1) - '0';
 		int h2 = (int) s.charAt(0) - '0';

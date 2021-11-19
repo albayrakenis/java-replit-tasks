@@ -9,12 +9,13 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class verifyContains {
+public class VerifyContains {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 
 		/**
 		 * Write a program that will verify if the sentence contains word. Print out the

@@ -5,12 +5,13 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class checkIfNumberIsPalindrome {
+public class CheckIfNumberIsPalindrome {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		// Complete the method isPalindrome() that will check if number is a palindrome.
 		// Print your result as a boolean (true or false).
 
@@ -33,7 +34,7 @@ public class checkIfNumberIsPalindrome {
 	}
 
 	public static void isPalindrome(int num){
-	    //WRITE YOUR CODE HERE
+
 	    if(num%2==1){
 	      System.out.println("true");
 	    } else {

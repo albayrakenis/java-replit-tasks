@@ -9,12 +9,14 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class smsMessage {
+public class SmsMessage {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
+		
 		/**
 		 * 
 		 * Given a String message in the following format: Sender:<Mike Smith>. From

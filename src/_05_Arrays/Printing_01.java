@@ -15,6 +15,7 @@ public class Printing_01 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * The code provided in your main method will take in five Strings and save them
 		 * into an array called arr. Print out the first three letter of each element on
@@ -23,7 +24,7 @@ public class Printing_01 {
 		 * 
 		 * Example: arr -> ["hello", "how", "are", "you", "doing"]
 		 * 
-		 * Output: hel how are you doing
+		 * Output: hel how are you doi
 		 */
 
 		Scanner input = new Scanner(System.in);
@@ -32,11 +33,10 @@ public class Printing_01 {
 		for (int i = 0; i < 5; i++) {
 			arr[i] = input.nextLine();
 		}
-		// leave above alone! write your code below.
-		// Create another loop for your solution!
+
 
 		for (String item : arr) {
-			System.out.println(item.substring(0, 3));
+			System.out.print(item.substring(0, 3) + " ");
 		}
 	}
 

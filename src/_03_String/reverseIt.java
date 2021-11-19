@@ -1,6 +1,3 @@
-/**
- * 
- */
 package _03_String;
 
 import java.util.Scanner;
@@ -9,12 +6,14 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class reverseIt {
+public class ReverseIt {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
+		
 		/**
 		 * Write a program that will reverse a string. Your program should reverse a
 		 * string only 5 characters long. If word is shorter, display message: "Too

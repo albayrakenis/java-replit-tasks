@@ -9,12 +9,15 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class words {
+public class Words {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		// Solved and Test Cases Passed
+		
 		/**
 		 * 
 		 * In this assignment you are given two string variables word1 and word2.

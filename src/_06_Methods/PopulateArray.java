@@ -16,6 +16,9 @@ public class PopulateArray {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		// Solved and Test Cases Passed
+		
 		/**
 		 * The populate method accepts an empty int array and populates it with numbers
 		 * counting up.

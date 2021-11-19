@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class methodWithReturnMax {
+public class MethodWithReturnMax {
 
 	/**
 	 * @param args

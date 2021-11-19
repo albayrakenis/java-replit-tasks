@@ -5,13 +5,15 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class methodWithReturn_3_locks {
+public class MethodWithReturn_3_locks {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		/*
+		// Solved and Test Cases Passed
+		
+		/**
 		 * threeLocks accepts 3 booleans and returns a boolean.
 		 * 
 		 * It returns true only if both a and b are true or c is true.

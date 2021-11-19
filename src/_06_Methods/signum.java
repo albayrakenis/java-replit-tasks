@@ -5,13 +5,12 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class signum {
+public class Signum {
 
 	/**
 	 * @param args
 	 */
 	public static void sign(int n) {
-		// your code here
 		
 		// Solved and Test Cases Passed
 		

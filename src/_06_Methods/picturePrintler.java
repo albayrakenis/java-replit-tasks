@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class picturePrintler {
+public class PicturePrintler {
 
 	/**
 	 * @param args

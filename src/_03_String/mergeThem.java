@@ -1,6 +1,3 @@
-/**
- * 
- */
 package _03_String;
 
 import java.util.Scanner;
@@ -9,12 +6,13 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class mergeThem {
+public class MergeThem {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * 
 		 * You have 2 words, both of them have 3 characters.

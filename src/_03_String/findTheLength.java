@@ -1,6 +1,3 @@
-/**
- * 
- */
 package _03_String;
 
 import java.util.Scanner;
@@ -9,12 +6,13 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class findTheLength {
+public class FindTheLength {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * 
 		 * Write a program that will output length of the text (string).

@@ -5,14 +5,15 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class methodWithReturn_ProfitOrLoss {
+public class MethodWithReturn_ProfitOrLoss {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 
-		/*
+		/**
 		 * Finish the profits method which accepts the buyPrice(int) and sellPrice(int)
 		 * and determines if there was a profit or loss.
 		 * 
@@ -20,8 +21,16 @@ public class methodWithReturn_ProfitOrLoss {
 		 * 
 		 * Example
 		 * 
-		 * profits(100,1500) returns: "profit" profits(100,1500) returns: "profit"
-		 * profits(20,5) returns: "loss" profits(20,5) returns: "loss" profits(100,100)
+		 * profits(100,1500)
+		 * 
+		 * returns: "profit"
+		 * 
+		 * profits(20,5)
+		 * 
+		 * returns: "loss"
+		 * 
+		 * profits(100,100)
+		 * 
 		 * returns: "no loss"
 		 */
 

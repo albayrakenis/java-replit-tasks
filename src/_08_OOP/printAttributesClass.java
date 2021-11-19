@@ -3,8 +3,9 @@ package _08_OOP;
 /**
  * @author esalkan
  */
-public class printAttributesClass {
-	/*
+public class PrintAttributesClass {
+	// Solved and Test Cases Passed
+	/**
 	 * You have two classes Main and Atts. Do not touch the Main class. Finish the
 	 * Atts class to have attributes:
 	 * 

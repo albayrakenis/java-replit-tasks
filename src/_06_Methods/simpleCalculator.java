@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class simpleCalculator {
+public class SimpleCalculator {
 
 	/**
 	 * @param args
@@ -32,7 +32,6 @@ public class simpleCalculator {
 	}
 
 	public static void plus() {
-		// your code here
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter first number : ");
 		int num1 = input.nextInt();

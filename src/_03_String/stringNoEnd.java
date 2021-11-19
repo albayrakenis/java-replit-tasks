@@ -9,12 +9,13 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class stringNoEnd {
+public class StringNoEnd {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * Given a String txt print the value without the last letter
 		 */

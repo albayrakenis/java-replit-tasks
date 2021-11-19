@@ -1,6 +1,3 @@
-/**
- * 
- */
 package _03_String;
 
 import java.util.Scanner;
@@ -9,12 +6,13 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class middleOne {
+public class MiddleOne {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * 
 		 * You have a word, do the following:

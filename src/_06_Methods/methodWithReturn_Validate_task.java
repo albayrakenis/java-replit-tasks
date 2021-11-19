@@ -5,12 +5,14 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class methodWithReturn_Validate_task {
+public class MethodWithReturn_Validate_task {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
+		
 		/*
 		 * We have a to do list app, every time a user adds a task - a few things needed
 		 * to be checked.

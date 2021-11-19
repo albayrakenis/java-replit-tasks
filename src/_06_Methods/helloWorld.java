@@ -3,7 +3,7 @@ package _06_Methods;
 /**
  * @author esalkan
  */
-public class helloWorld {
+public class HelloWorld {
 
 	/**
 	 * @param args

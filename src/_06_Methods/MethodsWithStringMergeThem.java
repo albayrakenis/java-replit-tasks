@@ -10,6 +10,9 @@ public class MethodsWithStringMergeThem {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		// Solved and Test Cases Passed
+		
 		/**
 		 * Write a method mergeStrings that will return the strings merged, one letter
 		 * at a time, starting with one. Please note one and two can be of different

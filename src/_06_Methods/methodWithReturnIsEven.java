@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class methodWithReturnIsEven {
+public class MethodWithReturnIsEven {
 
 	/**
 	 * @param args

@@ -3,7 +3,7 @@ package _06_Methods;
 /**
  * @author esalkan
  */
-public class simplePrintPattern {
+public class SimplePrintPattern {
 
 	/**
 	 * @param args
@@ -11,7 +11,7 @@ public class simplePrintPattern {
 	
 	
 	  public static void printHollowRect(){
-		    // write your codes here
+		   
 		    for(int i = 1; i <= 5; i++){
 		      for(int j = 1; j <= 5; j++){
 		        if (i == 1 || i == 5 || j == 1 || j == 5) {
@@ -28,6 +28,7 @@ public class simplePrintPattern {
 		  
 		  
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		// Create a method printHollowRect that prints a 5 by 5 hollow rectangle:
 
 		// *****

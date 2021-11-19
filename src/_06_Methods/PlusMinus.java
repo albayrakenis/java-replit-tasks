@@ -15,6 +15,8 @@ public class PlusMinus {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
+		
 		/**
 		 * Create a method called plus_minus that gets an array of ints (int[]), it
 		 * outputs how many negative , positive and zero numbers are in the array.

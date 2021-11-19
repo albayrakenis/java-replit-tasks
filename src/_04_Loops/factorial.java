@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class factorial {
+public class Factorial {
 
 	/**
 	 * @param args

@@ -12,6 +12,7 @@ public class Palindrome {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * Palindrome is a word, phrase, or sequence that reads the same backward as
 		 * forward.

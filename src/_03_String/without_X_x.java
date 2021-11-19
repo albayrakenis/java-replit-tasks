@@ -9,12 +9,14 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class without_X_x {
+public class Without_X_x {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
+		
 		/**
 		 * 
 		 * Given a string word, if the first or last chars are 'x' or 'X', print the

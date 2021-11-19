@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class fibonacciNumbers {
+public class FibonacciNumbers {
 
 	/**
 	 * @param args

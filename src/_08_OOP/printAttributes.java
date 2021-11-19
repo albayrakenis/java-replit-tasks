@@ -5,13 +5,14 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class printAttributes {
+public class PrintAttributes {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		/*
+		// Solved and Test Cases Passed
+		/**
 		 * You have two classes Main and Atts. Do not touch the Main class. Finish the
 		 * Atts class to have attributes:
 		 * 
@@ -31,7 +32,7 @@ public class printAttributes {
 		 */
 		
 		   Scanner in = new Scanner(System.in);
-		   printAttributesClass a = new printAttributesClass();
+		   PrintAttributesClass a = new PrintAttributesClass();
 		   a.name = in.nextLine();
 		   a.color = in.nextLine();
 		   a.amount = in.nextInt();

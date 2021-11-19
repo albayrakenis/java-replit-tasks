@@ -5,12 +5,14 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class methodWithReturn_thunderBlazz {
+public class MethodWithReturn_thunderBlazz {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
+		
 		/*
 		 * There are a few ways to get this galacticly popular drink, if its available
 		 * at the store you can buy it. or you can get it as a gift. The third option is

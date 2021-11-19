@@ -13,6 +13,7 @@ public class AddToArray {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * add_to_r is a method that accepts an array and a number.
 		 * 

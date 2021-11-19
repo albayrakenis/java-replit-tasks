@@ -5,13 +5,15 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class methodWithReturn_SimpleRoomBooking {
+public class MethodWithReturn_SimpleRoomBooking {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		/*
+		// Solved and Test Cases Passed
+		
+		/**
 		 * To book a room first it needs to be available for rent and make sure its
 		 * available at the date selected:
 		 * 

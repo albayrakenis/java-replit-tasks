@@ -1,6 +1,3 @@
-/**
- * 
- */
 package _03_String;
 
 import java.util.Scanner;
@@ -9,12 +6,14 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class printTheLongestWord {
+public class PrintTheLongestWord {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
+		
 		/**
 		 * Write a program that will print out the longest word. Note: Assume the length
 		 * of the two given Strings will be different

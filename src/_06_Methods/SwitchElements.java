@@ -16,6 +16,7 @@ public class SwitchElements {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * Implement the do_switch method Switch the last element in an array with the
 		 * first and return the array.

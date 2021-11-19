@@ -6,12 +6,15 @@ import java.util.Scanner;
  * @author esalkan
  *
  */
-public class isPos {
+public class IsPos {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		// Solved and Test Cases Passed
+		
 		/**
 		 * isPos is a method that checks if an int is positive or negative
 		 * 

@@ -5,14 +5,14 @@ import java.util.Scanner;
 /**
  * @author esalkan
  */
-public class printStarNtimes {
+public class PrintStarNtimes {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		
-		// NOT SOLVED
+		// Solved and Test Cases Passed
 		
 		// Given an int variable n print out n asterisks. So if n=5, five asterisks will
 		// be printed.

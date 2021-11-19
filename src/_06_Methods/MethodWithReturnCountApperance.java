@@ -10,6 +10,7 @@ public class MethodWithReturnCountApperance {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Solved and Test Cases Passed
 		/**
 		 * Create a method that has two parameters of an array of strings and a string
 		 * and should returns an int.
