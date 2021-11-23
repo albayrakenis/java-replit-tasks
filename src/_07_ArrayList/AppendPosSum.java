@@ -49,8 +49,6 @@ public class AppendPosSum {
 
 	}
 
-
-
 	public static ArrayList<Integer> appendPosSum(ArrayList<Integer> list) {
 		ArrayList<Integer> result = new ArrayList<Integer>();
 		int sum = 0;
